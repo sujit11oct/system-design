@@ -1,5 +1,14 @@
 # system-design
 
+### Interesting reads:
+1. [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+2. [Google Pregeg graph processing model](http://horicky.blogspot.com/2010/07/google-pregel-graph-processing.html)
+
+
+### Other Important links:
+1. http://horicky.blogspot.com
+           
+
 ### Engineering blog links
 
 1. [Netlix](https://netflixtechblog.com/)
