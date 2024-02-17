@@ -6,6 +6,7 @@
 3. [Paxos algorithm](https://www.linkedin.com/pulse/building-consensus-distributed-systems-power-paxos-raft-salik-tariq#:~:text=Paxos%20is%20a%20family%20of,systems%20that%20require%20high%20availability.)
 4. Popular consesus Algorithm
 5. Twitter Snowflake- Unique Id generator
+6. Bloomfilter-hash collision
 
 
 ### Other Important links:
