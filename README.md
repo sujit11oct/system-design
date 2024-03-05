@@ -7,6 +7,7 @@
 4. Popular consesus Algorithm
 5. Twitter Snowflake- Unique Id generator
 6. Bloomfilter-hash collision
+7. [kafka:Raft consensus algorithm for leader election without zookeeper](https://medium.com/javarevisited/running-kafka-without-zookeeper-66b685db4991)                        
 
 
 ### Other Important links:
